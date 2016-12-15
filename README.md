@@ -1,2 +1,2 @@
 # js30
-Work on the JavaScript 30 in 30 from Wes Boss.
+Work on the JavaScript30 from wes bos https://github.com/wesbos/JavaScript30
