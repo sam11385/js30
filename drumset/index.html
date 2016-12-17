@@ -5,8 +5,6 @@
   <title>JS Drum Kit</title>
   <link rel="stylesheet" href="style.css">
 </head>
-
-
 <body>
 
 	<div class="keys">
@@ -69,7 +67,6 @@
   		audio.play();
   		key.classList.add('playing');
   	}
-
 
   	function removeTransition(e){
   		if(e.propertyName !== 'transform') return; //skip it if its not a transform
