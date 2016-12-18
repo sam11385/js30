@@ -1,7 +1,7 @@
 # js30
 1. ~~drumset~~
-2. **JS and CSS Clock**
-3. CSS Var
+2. ~~JS and CSS Clock~~
+3. **CSS Var**
 4. Array Cardio Day 1
 5. Flex Panel Gallery
 6. Type Ahead
