@@ -1,3 +1,3 @@
 # js30
-~~drumset~~
-**JS and CSS Clock**
+1. ~~drumset~~
+2. **JS and CSS Clock**
