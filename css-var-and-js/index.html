@@ -80,7 +80,7 @@
     // The line below uses dataset, which allows us to use the data attribute we set in our HTML
     // This is cool because it spits out an object for us to access
     const suffix = this.dataset.sizing || '';
-    console.log(suffix)
+    document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
   }
 
 
