@@ -22,6 +22,22 @@
 
   <style>
 
+    :root{
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
+    }
+
+    img {
+      padding: var(--spacing);
+      background: var(--base);
+      filter: blur(var(--blur));
+    }
+
+    .hl {
+      color: var(--base);
+    }
+
     /*
       misc styles, nothing to do with CSS variables
     */
@@ -53,6 +69,12 @@
   </style>
 
   <script>
+  // Using 'querySelectorAll' spits out a nodelist, NOT an array. 
+  // The nodelist lets you use fewer methods, but still has forEach available.
+  // Sometimes people can change a nodelist into an array so more methods are available.
+  // Converting to an array be done in a later project.
+  const inputs = document.querySelectorAll('.controls input');
+
   </script>
 
 </body>
