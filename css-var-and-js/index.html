@@ -75,6 +75,21 @@
   // Converting to an array be done in a later project.
   const inputs = document.querySelectorAll('.controls input');
 
+  function handleUpdate() {
+    //console.log(this.value);
+    // The line below uses dataset, which allows us to use the data attribute we set in our HTML
+    // This is cool because it spits out an object for us to access
+    const suffix = this.dataset.sizing || '';
+    console.log(suffix)
+  }
+
+
+  // This says for each of the inputs (that we defined above on line 76), listen for a change and run the 'handleUpdate' function
+  inputs.forEach(input => input.addEventListener('change', handleUpdate))
+  inputs.forEach(input => input.addEventListener('mousemove', handleUpdate))
+
+
+
   </script>
 
 </body>
