@@ -2,8 +2,8 @@
 1. ~~drumset~~
 2. ~~JS and CSS Clock~~
 3. ~~CSS Var and JS~~
-4. **Array Cardio Day 1**
-5. Flex Panel Gallery
+4. ~~Array Cardio Day 1~~
+5. **Flex Panel Gallery**
 6. Type Ahead
 7. Array Cardio Day 2
 8. HTML5 Canvas
