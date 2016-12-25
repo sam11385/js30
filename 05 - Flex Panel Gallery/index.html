@@ -151,6 +151,8 @@
 
     panels.forEach(panel => panel.addEventListener('click', toggleOpen));
     panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
+
+    // NOTES: this.classList.toggle is the same as jquery $('.class-name').toggleClass('class-to-be-toggled')
   </script>
 
 </body>
