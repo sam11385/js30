@@ -6,7 +6,7 @@
 5. ~~Flex Panel Gallery~~
 6. ~~Type Ahead~~
 7. ~~Array Cardio Day 2~~
-8. **HTML5 Canvas**
+8. ~~HTML5 Canvas~~
 9. Dev Tools Domination
 10. Hold Shift and Check Checkboxes
 11. Custom Video Player
@@ -19,7 +19,7 @@
 18. Adding Up Times with Reduce
 19. Webcam
 20. Speech Detection
-21. Geolocation
+21. ~~Geolocation~~
 22. Follow Along Link Highlighter
 23. Speech Sythesis
 24. Sticky Nav
